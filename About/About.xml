@@ -13,7 +13,9 @@
 This is a continued version of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2605167683]Coordinate Readout[/url] by Noquiem.
 
 This mod simply adds coordinates to the UI readout, along with some settings to specify where.
-The continued version lets the player scale the text size, and gives a bit more freedom in placing the readout.
+The continued version lets the player scale the text size, adjust the color and opacity, and gives a bit more freedom in placing the readout.
+
+https://github.com/VitaKaninen/Coordinate-Readout-Continued
   </description>
   <packageId>Vita.coordread</packageId>
   <modDependencies>
