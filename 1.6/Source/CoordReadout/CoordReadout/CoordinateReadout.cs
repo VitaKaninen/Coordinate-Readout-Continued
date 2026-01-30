@@ -23,7 +23,7 @@ namespace NOQ_CoordReadout
             // Create a GUIStyle with the configured text size
             GUIStyle style = new GUIStyle();
             style.fontSize = (int)Settings.textSize;
-            style.normal.textColor = new Color(1f, 1f, 1f, 0.8f);
+            style.normal.textColor = Settings.textColor;
 
             // Calculate text size
             Vector2 textSize = style.CalcSize(new GUIContent(mouseCell.ToString()));
