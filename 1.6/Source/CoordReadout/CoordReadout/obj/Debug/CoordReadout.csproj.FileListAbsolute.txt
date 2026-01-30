@@ -1,0 +1,7 @@
+E:\Programming Projects\Gaming\RimWorld\Mods\CoordReadout\1.4\Assemblies\NOQ_CoordReadout.dll
+E:\Programming Projects\Gaming\RimWorld\Mods\CoordReadout\1.4\Source\CoordReadout\CoordReadout\obj\Debug\CoordReadout.csprojAssemblyReference.cache
+E:\Programming Projects\Gaming\RimWorld\Mods\CoordReadout\1.4\Source\CoordReadout\CoordReadout\obj\Debug\NOQ_CoordReadout.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2605167683\1.6\Assemblies\NOQ_CoordReadout.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2605167683\1.6\Source\CoordReadout\CoordReadout\obj\Debug\CoordReadout.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2605167683\1.6\Source\CoordReadout\CoordReadout\obj\Debug\CoordReadout.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2605167683\1.6\Source\CoordReadout\CoordReadout\obj\Debug\NOQ_CoordReadout.dll

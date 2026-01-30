@@ -1,4 +1,4 @@
-Coordinate Readout V.1.4.1
+Coordinate Readout V.1.6.1
 
 Simply adds a readout of the coordinates your mouse is hovering over.
 
