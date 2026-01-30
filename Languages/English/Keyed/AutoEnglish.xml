@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CoordRead.ShowCoords>Show Coordinates</CoordRead.ShowCoords>
+	<CoordRead.ShowCoordsTip>Toggles whether the coordinate readout is displayed on-screen.</CoordRead.ShowCoordsTip>
+	<CoordRead.CoordReadout>Coordinate Readout</CoordRead.CoordReadout>
+	<CoordRead.TextSize>Text size</CoordRead.TextSize>
+	<CoordRead.TextColor>Text color</CoordRead.TextColor>
+	<CoordRead.Red>Red</CoordRead.Red>
+	<CoordRead.Green>Green</CoordRead.Green>
+	<CoordRead.Blue>Blue</CoordRead.Blue>
+	<CoordRead.Opacity>Opacity</CoordRead.Opacity>
+	<CoordRead.xPosUI>X position</CoordRead.xPosUI>
+	<CoordRead.yPosUI>Y position</CoordRead.yPosUI>
+	<CoordRead.ResetDefaults>Reset to Defaults</CoordRead.ResetDefaults>
+</LanguageData>
