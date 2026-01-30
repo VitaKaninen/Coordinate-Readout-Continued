@@ -1,0 +1,6 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfoGrid\Source\InfoGrid\InfoGrid\obj\Debug\CoordReadout.csprojAssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfoGrid\Assemblies\NOQ_CoordReadout.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfoGrid\Source\InfoGrid\InfoGrid\obj\Debug\NOQ_CoordReadout.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\CoordReadout\Assemblies\NOQ_CoordReadout.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\CoordReadout\Source\CoordReadout\CoordReadout\obj\Debug\CoordReadout.csprojAssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\CoordReadout\Source\CoordReadout\CoordReadout\obj\Debug\NOQ_CoordReadout.dll
